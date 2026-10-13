@@ -5,4 +5,4 @@ rimgosu-vibe 앱들의 공개 문서 (GitHub Pages). 원본은 각 앱 리포에
 | 페이지 | 원본 |
 |---|---|
 | https://rimgosu-vibe.github.io/amatdaiso/privacy/ | rimgosu-vibe/amatdaiso `docs/privacy.md` |
-| https://rimgosu-vibe.github.io/daily-meds/privacy/ | rimgosu-vibe/daily-meds `docs/privacy.md` |
+| https://rimgosu-vibe.github.io/daily-meds/ · /daily-meds/privacy/ | rimgosu-vibe/daily-meds `docs/privacy.md` (지원 페이지는 이 저장소가 원본) |
